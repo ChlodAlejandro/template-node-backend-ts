@@ -16,9 +16,9 @@
     "author": "Chlod Alejandro <chlod@chlod.net>",
     "license": "Apache-2.0",
     "bugs": {
-        "url": "https://github.com/ChlodAlejandro/gpgedit/issues"
+        "url": "https://github.com/ChlodAlejandro/template-node-backend-ts/issues"
     },
-    "homepage": "https://github.com/ChlodAlejandro/gpgedit#readme",
+    "homepage": "https://github.com/ChlodAlejandro/template-node-backend-ts#readme",
     "devDependencies": {
         "@types/node": "^14.14.41",
         "@typescript-eslint/eslint-plugin": "^4.22.0",
