@@ -17,7 +17,7 @@
     "homepage": "https://github.com/ChlodAlejandro/template-node-backend-ts#readme",
     "devDependencies": {
         "@types/node": "^18.16.0",
-        "@typescript-eslint/eslint-plugin": "^5.59.0",
+        "@typescript-eslint/eslint-plugin": "^6.1.0",
         "@typescript-eslint/parser": "^5.59.0",
         "eslint": "^8.41.0",
         "eslint-plugin-import": "^2.27.4",
